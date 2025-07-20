@@ -342,4 +342,9 @@ contract TuneFundSmartContract {
 
         return allCampaigns;
     }
+
+    // not important function
+    // function notImportant() external {
+    //     // do nothing
+    // }
 }
